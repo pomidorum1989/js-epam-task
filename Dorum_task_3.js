@@ -4,7 +4,7 @@ let happiness =
         unclouded: 1,
         unspeakable: 5,
         crazy: 3,
-        unearthly: 4
+        uhearthly: 4
     }
 let values = Object.entries(happiness)
 values.sort(function (a, b) {
