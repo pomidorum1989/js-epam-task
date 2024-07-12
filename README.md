@@ -22,3 +22,9 @@ Write a function that calculates the number of seconds that have elapsed since t
 
 ### Description
 Write a program that sorts the properties of an object based on their values in ascending order and prints the sorted property names to the console.
+
+### Run Command
+```sh
+npm run task-1
+npm run task-2
+npm run task-3

@@ -1,0 +1,26 @@
+{
+  "name": "js-epam-task",
+  "version": "1.0.0",
+  "description": "Solving js interview questions",
+  "main": "tasks/dorum-task-1.js",
+  "scripts": {
+    "task-1": "node tasks/dorum-task-1.js",
+    "task-2": "node tasks/dorum-task-2.js",
+    "task-3": "node tasks/dorum-task-3.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pomidorum1989/js-epam-task.git"
+  },
+  "keywords": [
+    "epam",
+    "interview",
+    "javascript"
+  ],
+  "author": "Valentine Dorum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pomidorum1989/js-epam-task/issues"
+  },
+  "homepage": "https://github.com/Pomidorum1989/js-epam-task#readme"
+}
